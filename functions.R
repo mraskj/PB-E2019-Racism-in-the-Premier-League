@@ -1,9 +1,11 @@
-#================================================================================#
-#                                                                                #
-# Program: functions.R                                                        #
-# Aim    : This script produces functions used in the analysis                   #
-#                                                                                #
-#================================================================================#
+#=========================================================================================#
+#                                                                                         #
+# Program: functions.R                                                                    #
+# Aim    : This script contains user-defined functions used in the analysis               #
+# Date   : 02-01-2020                                                                     #
+# Authors: Frederik Skjerning and Mathias Rask                                            #
+#                                                                                         #
+#=========================================================================================#
 
 #### SETUP ####
 
