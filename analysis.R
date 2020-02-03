@@ -1,9 +1,11 @@
-#================================================================================#
-# Program : 08_analysis.R                                                        #
-# Aim     : This script contains the code to produce our the analysis            #
-# Date    : 03-01-2020                                                           #
-# Authors : Frederik Skjerning & Mathias Rask                                    #
-#================================================================================#
+#=========================================================================================#
+#                                                                                         #
+# Program: analysis.R                                                                     #
+# Aim    : This script executes the plots in the main analysis and robustness section     #
+# Date   : 20-12-2019                                                                     #
+# Authors: Frederik Skjerning and Mathias Rask                                            #
+#                                                                                         #
+#=========================================================================================#
 
 #### SETUP ####
 
@@ -23,10 +25,10 @@ library(cowplot)
 library(boot)
 
 # extract functions from 08_functions.R
-source('08_functions.R')
+source('functions.R')
 
 # load data
-load('data/08_finaldf.Rdata')
+load('data/data.Rdata')
 
 # We employ the followings variables:
 # - Dependent variables:
