@@ -1,6 +1,6 @@
 #=========================================================================================#
 #                                                                                         #
-# Program: 01_descriptives.R                                                              #
+# Program: descriptives.R                                                                 #
 # Aim    : This script produces the plots for the data and measurement section            #
 # Date   : 20-01-2020                                                                     #
 # Authors: Frederik Skjerning and Mathias Rask                                            #
